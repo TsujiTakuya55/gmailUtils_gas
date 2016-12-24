@@ -1,29 +1,53 @@
 # gmailUtils_gas
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE)
-[![Language](http://img.shields.io/badge/language-javascript-brightgreen.svg?style=flat
-)](https://developers.google.com/apps-script/)
 
 - google app scritpのgmail操作ライブラリ
 
-# Project key
+[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE) [![Language](http://img.shields.io/badge/language-Google Apps Script-brightgreen.svg?style=flat)](https://developers.google.com/apps-script/)
 
-```
+## Table of Contents
+
+--------------------------------------------------------------------------------
+
+- [Project key](#Project key)
+- [Method Collection](#Method Collection)
+- [Requirements](#Requirements)
+- [Contributing](#Contributing)
+- [Support and Migration](#Support and Migration)
+- [Developed By](#Developed By)
+- [License](#License)
+
+## Project key
+
+```text
 MCIuVAprmrB8rGxTHG-L9F6M0nmmJvv15
 ```
 
-# Method Collection
-- gmailUtils_gasのメソッド  
-   https://script.google.com/macros/library/d/1yUGc2dyX7piQQ5L2Wx4C-DxzyJ7TcM2BVJD0LV3OI9cwTmmGP9wH7iMA/3
+## Method Collection
 
-# Requirements
+- gmailUtils_gasのメソッド<br>
+  <https://script.google.com/macros/library/d/1yUGc2dyX7piQQ5L2Wx4C-DxzyJ7TcM2BVJD0LV3OI9cwTmmGP9wH7iMA/3>
+
+## Requirements
+
 - [google app script](https://developers.google.com/apps-script/)
 
-# Developed By
+## Contributing
+
+## Support and Migration
+
+| :grey_question: | Version | Support End Date |
+|:-----------|------------:|:------------:|
+| :heart:       |        3 |     N/A     |
+| :skull:     |      1 |    N/A    |
+
+
+## Developed By
+
 - name : tsuji_takuya
-- Gmail : tsujitakuya50@gmail.com
 - Twitter : [@Tsuji_Taku50](https://twitter.com/Tsuji_Taku50)
 
-# License
+## License
+
 ```
 MIT License
 
@@ -46,5 +70,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 ```
