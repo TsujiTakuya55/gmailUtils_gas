@@ -9,9 +9,9 @@
 - [Project key](#Project key)
 - [Method Collection](#Method Collection)
 - [Requirements](#Requirements)
+- [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Support and Migration](#Support and Migration)
-- [Developed By](#Developed By)
 - [License](#License)
 
 ## Project key
@@ -29,6 +29,10 @@ MCIuVAprmrB8rGxTHG-L9F6M0nmmJvv15
 
 - [google app script](https://developers.google.com/apps-script/)
 
+## Usage
+
+- [GAS(google app scritp)でgmailを操作するライブラリを作成しました](http://qiita.com/Tsuji_Taku50/items/7bddca5046dcbf92f259)
+
 ## Contributing
 
 ## Support and Migration
@@ -37,12 +41,6 @@ MCIuVAprmrB8rGxTHG-L9F6M0nmmJvv15
 |:-----------|------------:|:------------:|
 | :heart:       |        3 |     N/A     |
 | :skull:     |      1 |    N/A    |
-
-
-## Developed By
-
-- name : tsuji_takuya
-- Twitter : [@Tsuji_Taku50](https://twitter.com/Tsuji_Taku50)
 
 ## License
 
